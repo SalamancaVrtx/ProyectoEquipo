@@ -2,7 +2,7 @@
 
 El objetivo fue construir una calculadora completamente funcional utilizando tecnologías web básicas. Para gestionar la colaboración, se utilizó un repositorio de GitHub, empleando ramas (branches) para el desarrollo individual y solicitudes de integración (pull requests) para fusionar el trabajo en la rama principal (main).
 
-2. Roles y Responsabilidades
+Roles y Responsabilidades
 El trabajo se dividió entre tres colaboradores, cada uno con una responsabilidad clara:
 
 Colaborador 1: El Arquitecto de la Estructura (HTML)
@@ -48,5 +48,5 @@ Implementar la lógica para las operaciones matemáticas: suma, resta, multiplic
 
 Actualizar el contenido de la pantalla de visualización con los números ingresados y los resultados de los cálculos.
 
- Cada uno trabajó en su propia rama, haciendo commits de sus cambios de forma regular.
+Cada uno trabajó en su propia rama, haciendo commits de sus cambios de forma regular.
  
